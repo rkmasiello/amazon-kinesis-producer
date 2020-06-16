@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/amazon-kinesis-producer/amazon-kinesis-producer.iml" filepath="$PROJECT_DIR$/amazon-kinesis-producer/amazon-kinesis-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amazon-kinesis-producer-sample/amazon-kinesis-producer-sample.iml" filepath="$PROJECT_DIR$/amazon-kinesis-producer-sample/amazon-kinesis-producer-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kinesis-test.iml" filepath="$PROJECT_DIR$/kinesis-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rob-test/rob-test.iml" filepath="$PROJECT_DIR$/rob-test/rob-test.iml" />
+    </modules>
+  </component>
+</project>
